@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgreen;
+}
+
+.a {
+    background-color: forestgreen;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.b {
+    background-color: forestgreen;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.aa {
+    background-color: forestgreen;
+    color: white;
+    border-radius: 6px;
+    font-size: 30px;
+}
