@@ -1,0 +1,270 @@
+body {
+    background-color: #e4e3fa;
+    color: black;
+    font-style: italic;
+}
+
+.f {
+    position: relative;
+}
+
+.ff {
+    position: absolute;
+    top: 245px;
+    left: 230px;
+    color: white;
+    font-size: 41px;
+}
+
+.f_1 {
+    width: 500px;
+}
+
+.g {
+    justify-content: center;
+}
+
+.u {
+    display: flex;
+    padding: 40px;
+}
+
+.u_1 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.u_2 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.r {
+    display: flex;
+    padding: 40px;
+}
+
+.r_1 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.r_2 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.q {
+    display: flex;
+    padding: 40px;
+}
+
+.q_1 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.q_2 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.f {
+    display: flex;
+    padding: 40px;
+}
+
+.f_1 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.f_2 {
+    border-radius: 3px;
+    background-color: white;
+}
+
+.tin_1 {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.tin_2 {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.tin_3 {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.j {
+    display: flex;
+}
+
+.j_1 {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.j_2 {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.j_3 {
+    background-color: white;
+    border-radius: 3px;
+}
+
+@media(min-width: 724px) {
+    body {
+        background-color: #e4e3fa;
+        color: black;
+        font-style: italic;
+    }
+    .f {
+        position: relative;
+    }
+    .ff {
+        position: absolute;
+        top: 340px;
+        left: 330px;
+        color: white;
+        font-size: 41px;
+    }
+    .f_1 {
+        width: 700px;
+    }
+    .iaa {
+        display: flex;
+    }
+    .u_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .u_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .r_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .r_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .iab {
+        display: flex;
+    }
+    .q_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .q_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .f_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .f_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .iac {
+        display: flex;
+    }
+    .tin_1 {
+        background-color: white;
+        border-radius: 3px;
+    }
+    .tin_2 {
+        background-color: white;
+        border-radius: 3px;
+    }
+    .tin_3 {
+        background-color: white;
+        border-radius: 3px;
+    }
+}
+
+@media(min-width: 1024px) {
+    body {
+        background-color: #e4e3fa;
+        color: black;
+        font-style: italic;
+    }
+    .f {
+        position: relative;
+    }
+    .ff {
+        position: absolute;
+        top: 340px;
+        left: 330px;
+        color: white;
+        font-size: 41px;
+    }
+    .f_1 {
+        width: 700px;
+    }
+    .iaa {
+        display: flex;
+    }
+    .u_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .u_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .r_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .r_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .iab {
+        display: flex;
+    }
+    .q_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .q_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .f_1 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .f_2 {
+        border-radius: 3px;
+        background-color: white;
+    }
+    .iac {
+        display: flex;
+    }
+    .tin_1 {
+        background-color: white;
+        border-radius: 3px;
+    }
+    .tin_2 {
+        background-color: white;
+        border-radius: 3px;
+    }
+    .tin_3 {
+        background-color: white;
+        border-radius: 3px;
+    }
+    .rivanov {
+        display: flex;
+    }
+}
